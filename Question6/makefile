@@ -3,4 +3,7 @@ bisection.out : bisection/bisection.c
 
 newton.out : newton/newton.c
 	gcc -o newton.out newton/newton.c -lm
+	
+clean :
+	rm bisection.out newton.out
 
