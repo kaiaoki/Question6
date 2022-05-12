@@ -31,7 +31,7 @@ int main()
    
    if(conv==1)
    {
-       printf("%d回の計算が行われました。\n",n+1);
+       printf("%d times culculates have been done\n",n+1);
    }
    else
    {
@@ -65,7 +65,7 @@ int main()
    
    if(conv==1)
    {
-       printf("%d回の計算が行われました。\n",n+1);
+       printf("%d times culculates have been done\n",n+1);
    }
    else
    {
